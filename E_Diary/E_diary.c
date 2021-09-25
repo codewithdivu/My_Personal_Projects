@@ -182,7 +182,7 @@ void viewrecord()
         {
             printf("\n");
             printf("\nTIME: %s", customer.time);
-            printf("\nNOTES BY: %s", customer.name);
+            printf("\nAUTHOR: %s", customer.name);
             printf("\n");
             printf("\nNOTE: %s", customer.note);
             printf("\n");
